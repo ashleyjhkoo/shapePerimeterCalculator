@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=perimeterRunnerAssignment
+comment0.text=\n\ Getting\ the\ total\ perimeters(the\ sum\ of\ all\ perimeter\ distances)\ of\ the\ shape.\n\ \n\ @author\ (Ashley\ Junghee\ Koo)\ \n\ @version\ (Oct.\ 8th,\ 2017)\n
+comment1.params=s
+comment1.target=double\ getPerimeter(edu.duke.Shape)
+comment2.params=
+comment2.target=void\ testPerimeter()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
