@@ -6,13 +6,13 @@
 
 << public class perimeterRunnerAssignment
 * public double getPerimeter (Shape s) <- method 01
-- from the file, it reads the points of the shape and create shape
-- calculate each distance(length of the line between points)
-- calculate the total perimeter of the shape by adding all line distances
+...from the file, it reads the points of the shape and create shape
+...calculate each distance(length of the line between points)
+...calculate the total perimeter of the shape by adding all line distances
 
 * public void testPerimeter () <- method 02
-- from the file, it reads the points of the shape and create shape
-- print out 5 information of the shape that reads from the file: 
+...from the file, it reads the points of the shape and create shape
+...print out 5 information of the shape that reads from the file: 
   1) perimeter of the shape
   2) number of points: triangle's number of points is 3
   3) longest length of the lines in a shape
