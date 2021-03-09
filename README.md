@@ -2,7 +2,7 @@
 # Calculating perimeters of the shapes that consist of the points that read from the files.
 # Coding environment - BlueJ 4.1.1-Duke
 
-<< This is a patch 1.0
+<< This is a patch 2.0
 
 << package perimeter_quiz includes two classes: PerimeterAssignmentRunner, perimeterRunnerAssignment
 
